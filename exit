@@ -1,0 +1,23 @@
+[33mcommit 844c4225988462e1bbaef6e1818ea712103072b6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Moisés Osti <moises.osti@gmail.com>
+Date:   Sun Sep 22 20:52:54 2019 -0300
+
+    Excluindo arquivo gitignore
+
+[33mcommit a4ff9fd665801f80121869fc88045cc6ce0dfd1f[m
+Author: Moisés Osti <moises.osti@gmail.com>
+Date:   Sun Sep 22 20:51:57 2019 -0300
+
+    Correção do arquivo .gitignore
+
+[33mcommit a42788198cdda49a37b394cd9ca253ef59b6afd3[m
+Author: Moisés Osti <moises.osti@gmail.com>
+Date:   Sun Sep 22 20:45:32 2019 -0300
+
+    Adicionando gitignore
+
+[33mcommit 23a23cdd4fec46ae69557734e57169935f82d1d1[m
+Author: Moisés Osti <moises.osti@gmail.com>
+Date:   Sun Sep 22 20:21:40 2019 -0300
+
+    Criando arquivo index.html com lista de cursos
